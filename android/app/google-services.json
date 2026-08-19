@@ -1,0 +1,387 @@
+{
+  "project_info": {
+    "project_number": "215428045344",
+    "firebase_url": "https://fireside-chat-5df62-default-rtdb.firebaseio.com",
+    "project_id": "fireside-chat-5df62",
+    "storage_bucket": "fireside-chat-5df62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215428045344:android:4a0817181c4cfa3e81fa45",
+        "android_client_info": {
+          "package_name": "com.assigenment.assigenment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215428045344-ina7sti94mrgknnbrpimjbksdbe6sj6b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.assigenment.assigenment",
+            "certificate_hash": "98bf915b4fc806b9c8448a17a99351b147a0696a"
+          }
+        },
+        {
+          "client_id": "215428045344-efcuu5squ04tub0e2uc5c8gl976do1rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDFmWnEh0GikzMMzS210eNJ5Rpm-plvH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215428045344-efcuu5squ04tub0e2uc5c8gl976do1rd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215428045344-14et894mnro3h7p995gl04f4c6vi69m4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ostad.ostad"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215428045344:android:b60efc7ba061fe3281fa45",
+        "android_client_info": {
+          "package_name": "com.example.bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215428045344-efcuu5squ04tub0e2uc5c8gl976do1rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDFmWnEh0GikzMMzS210eNJ5Rpm-plvH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215428045344-efcuu5squ04tub0e2uc5c8gl976do1rd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215428045344-14et894mnro3h7p995gl04f4c6vi69m4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ostad.ostad"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215428045344:android:9674101df675087881fa45",
+        "android_client_info": {
+          "package_name": "com.example.fmmethod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215428045344-efcuu5squ04tub0e2uc5c8gl976do1rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDFmWnEh0GikzMMzS210eNJ5Rpm-plvH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215428045344-efcuu5squ04tub0e2uc5c8gl976do1rd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215428045344-14et894mnro3h7p995gl04f4c6vi69m4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ostad.ostad"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215428045344:android:f373b2af41f02f6881fa45",
+        "android_client_info": {
+          "package_name": "com.example.intern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215428045344-efcuu5squ04tub0e2uc5c8gl976do1rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDFmWnEh0GikzMMzS210eNJ5Rpm-plvH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215428045344-efcuu5squ04tub0e2uc5c8gl976do1rd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215428045344-14et894mnro3h7p995gl04f4c6vi69m4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ostad.ostad"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215428045344:android:13aa9572c178d5f581fa45",
+        "android_client_info": {
+          "package_name": "com.example.miniexpense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215428045344-efcuu5squ04tub0e2uc5c8gl976do1rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDFmWnEh0GikzMMzS210eNJ5Rpm-plvH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215428045344-efcuu5squ04tub0e2uc5c8gl976do1rd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215428045344-14et894mnro3h7p995gl04f4c6vi69m4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ostad.ostad"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215428045344:android:518f15171ce794b381fa45",
+        "android_client_info": {
+          "package_name": "com.example.t_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215428045344-efcuu5squ04tub0e2uc5c8gl976do1rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDFmWnEh0GikzMMzS210eNJ5Rpm-plvH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215428045344-efcuu5squ04tub0e2uc5c8gl976do1rd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215428045344-14et894mnro3h7p995gl04f4c6vi69m4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ostad.ostad"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215428045344:android:2e3ffc01e7a1c9d481fa45",
+        "android_client_info": {
+          "package_name": "com.foodzax.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215428045344-efcuu5squ04tub0e2uc5c8gl976do1rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDFmWnEh0GikzMMzS210eNJ5Rpm-plvH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215428045344-efcuu5squ04tub0e2uc5c8gl976do1rd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215428045344-14et894mnro3h7p995gl04f4c6vi69m4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ostad.ostad"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215428045344:android:05e880567617c80a81fa45",
+        "android_client_info": {
+          "package_name": "com.harshRajpurohit.freeVpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215428045344-efcuu5squ04tub0e2uc5c8gl976do1rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDFmWnEh0GikzMMzS210eNJ5Rpm-plvH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215428045344-efcuu5squ04tub0e2uc5c8gl976do1rd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215428045344-14et894mnro3h7p995gl04f4c6vi69m4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ostad.ostad"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215428045344:android:861be2bbfa75044781fa45",
+        "android_client_info": {
+          "package_name": "com.naasmind.naasemart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215428045344-gqc1rhd6utdljt14i1lh959vre2bs4i5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.naasmind.naasemart",
+            "certificate_hash": "98bf915b4fc806b9c8448a17a99351b147a0696a"
+          }
+        },
+        {
+          "client_id": "215428045344-efcuu5squ04tub0e2uc5c8gl976do1rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDFmWnEh0GikzMMzS210eNJ5Rpm-plvH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215428045344-efcuu5squ04tub0e2uc5c8gl976do1rd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215428045344-14et894mnro3h7p995gl04f4c6vi69m4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ostad.ostad"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215428045344:android:a628081e8200067181fa45",
+        "android_client_info": {
+          "package_name": "com.ostad.ostad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215428045344-efcuu5squ04tub0e2uc5c8gl976do1rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDFmWnEh0GikzMMzS210eNJ5Rpm-plvH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215428045344-efcuu5squ04tub0e2uc5c8gl976do1rd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215428045344-14et894mnro3h7p995gl04f4c6vi69m4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ostad.ostad"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
